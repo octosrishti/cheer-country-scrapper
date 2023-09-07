@@ -1,0 +1,14 @@
+{
+  "name": "cheer-country-scrapper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "mongoose": "^7.5.0",
+    "request": "^2.88.2"
+  }
+}
